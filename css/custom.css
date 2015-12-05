@@ -1,0 +1,140 @@
+/* custom.css */
+
+body {
+    background-color:#03082e;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding-left: 40px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 55px;
+    margin-top: 0;
+    padding-left: 45px;
+   
+    
+}
+
+.button {
+    width: 50px;
+    height: 50px;
+    box-shadow: 2px 2px 1px #302e2e;
+
+}
+
+#wrapper {
+    width: 1000px;
+    height: 700px;
+    overflow: hidden;
+}
+
+#content1 {
+    display: block;
+
+}
+
+#content2 {
+    display: none;
+
+}
+
+#content3 {
+    display: none;
+
+}
+#content4 {
+    display: none;
+
+}
+#content5 {
+    display: none;
+
+}
+
+
+#button1 {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+}
+
+#button2 {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+}
+
+#button3 {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+}
+
+#button4 {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+}
+
+#button5 {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+}
+
+#previousButton {
+    width: 80px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+  
+}
+
+#nextButton {
+    width: 80px;
+    height: 40px;
+    line-height: 40px;
+    color: white;
+
+}
+
+li {
+   list-style: none; 
+    background-color: #660000;
+   display: inline-block;
+}
+
+li:hover {
+    background-color: #302e2e;
+    color: white;
+}
+
+ul {
+   text-align: center; 
+}
+
+#singleNav {
+    float: left;
+    
+}
+
+#previousNextNav {
+    float: right;
+    margin-right: 40px;
+}
+
+#photoCredit {
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
+#photoCredit a {
+    text-decoration: none;
+    color: white;
+}
